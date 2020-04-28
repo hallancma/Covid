@@ -12,7 +12,7 @@
 Mentorado pelo Front-End Architect Bruno Carneiro disponibilizado pela DIO Experts
 
 # Clone este repositório
-$ git clone https://github.com/hallancma/Fichas-Squad-Ubatuba
+$ git clone https://github.com/hallancma/Covid19-pwa-react
 $ yarn start
 
 
