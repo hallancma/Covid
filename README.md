@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <img alt = "Prescon Informática" src = "http://www.presconinformatica.com.br/img/logo_prescon.png" />
+    <img alt = "Prescon Informática" src = "https://www.boraprogramar.com.br/logo192.png" />
     <br>
     Projeto PWA Covid19
 </h1>
