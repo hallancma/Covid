@@ -16,6 +16,6 @@ Mentorado pelo Front-End Architect Bruno Carneiro disponibilizado pela DIO Exper
 <p>$ yarn start</p>
 
 
-## PWA do Showing COVID19 Cases
+## PWA COVID19 Online
 
-Host: https://covid19pwa.netlify.app/
+Link: https://romantic-davinci-3cbafb.netlify.app/
