@@ -12,8 +12,8 @@
 Mentorado pelo Front-End Architect Bruno Carneiro disponibilizado pela DIO Experts
 
 # Clone este repositório
-$ git clone https://github.com/hallancma/Covid19-pwa-react
-$ yarn start
+<p>$ git clone https://github.com/hallancma/Covid19-pwa-react</p>
+<p>$ yarn start</p>
 
 
 ## PWA do Showing COVID19 Cases
